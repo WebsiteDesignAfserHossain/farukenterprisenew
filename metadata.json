@@ -1,0 +1,6 @@
+{
+  "name": "Faruk Enterprise",
+  "description": "Corporate website for Faruk Enterprise - Footwear & Cosmetics Distribution, Agro Farm, Egg Wholesale, and Real Estate in Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
